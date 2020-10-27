@@ -14,4 +14,4 @@ https://coursework.vschool.io/silly-cia-part-1/
 * Repl will allow you to share links to html files you create in repl as regular web pages. 
 * The link for displaying an html file as a regular web page is found right above the output in the repl html editor. 
 * Please submit the link to your web page in Canvas.
-* ![Clone GitHub](https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Images/replPageLink.JPG)
+* ![Clone GitHub](https://sillyciapart1.natashaansari.repl.co/)
